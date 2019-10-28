@@ -2,7 +2,7 @@
   "version": "2.0",
   "extensions": {
     "durableTask": {
-      "hubName": "localdungeon"
+      "hubName": "localdungeonfunction"
     },
     "extendedSessionsEnabled": "true",
     "extendedSessionIdleTimeoutInSeconds": "120"
